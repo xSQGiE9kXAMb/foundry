@@ -455,3 +455,5 @@ If you feel another member of the community violated our Code of Conduct or you 
 ![SumUp logo](https://raw.githubusercontent.com/sumup-oss/assets/master/sumup-logo.svg?sanitize=true)
 
 It is our mission to make easy and fast card payments a reality across the _entire_ world. You can pay with SumUp in more than 30 countries already. Our engineers work in Berlin, Cologne, Sofia, and Sāo Paulo. They write code in TypeScript, Swift, Ruby, Go, Java, Erlang, Elixir, and more. Want to come work with us? [Head to our careers page](https://sumup.com/careers) to find out more.
+
+<!-- Auto-update: 2025-10-19T08:44:21.434670 -->
